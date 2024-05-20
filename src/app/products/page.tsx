@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Products() {
   return (
     <main className="w-full h-full grow flex text-4xl justify-center items-center">
-      Home Page
+      Products Page
     </main>
   );
 }
